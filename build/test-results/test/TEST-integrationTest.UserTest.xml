@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="integrationTest.UserTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-06T12:18:23" hostname="Testvagrants-MacBook-Pro.local" time="4.951">
+  <properties/>
+  <testcase name="shouldCreateAndGetUser" classname="integrationTest.UserTest" time="4.951"/>
+  <system-out><![CDATA[{
+    "meta": null,
+    "data": {
+        "id": 3128,
+        "name": "Akash Salunke",
+        "email": "bb338ef8-2462-4b2a-b14e-fb25f4699524@gmail.com",
+        "gender": "male",
+        "status": "inactive"
+    }
+}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
